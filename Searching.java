@@ -1,7 +1,10 @@
 public class Searching {
 	public static void main(String args[]) {
 		
-		// ╟к╩Ж╬Н ют╥б -> ╟к╩Ж╬Н©║ гь╢Гго╢б ╢э╬Н цё╠Б -> ╠Ба╦ ют╥б╟З ╨Я╠Ё
+		// Й╡─Л┐┴Л√╢ Л·┘К═╔ -> Й╡─Л┐┴Л√╢Л≈░ М∙╢К▀╧М∙≤К┼■ К▀╗Л√╢ Л╟╬Й╦╟ -> Й╦╟Л║╢ Л·┘К═╔ЙЁ╪ К╧└Й╣░
+		String ex1 = "Л≤┬Л▀°Л ╘";
+		String ex2 = "К▀╗Л√╢";
+		String ex3 = "example";
 		
 		for(
 				
