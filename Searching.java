@@ -12,7 +12,7 @@ public class Searching {
 		String ex = "예시용 단어 example word";
 //		Scanner searching = new Scanner(System.in);
 		
-//		if(ex.matches(.searching))
+//		if(ex.matches(searching))
 //			System.out.println(searching);
 //		입력을 직접 받는형식 연구해보기
 //				
