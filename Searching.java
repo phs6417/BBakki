@@ -21,7 +21,7 @@ public class Searching {
 		else
 			System.out.println("no");
 		
-				
+			 	
 				
 	}
 }
