@@ -20,7 +20,7 @@ public class Searching {
 			System.out.println("yes");
 		else
 			System.out.println("no");
-		
+		 
 			 	
 				
 	}
